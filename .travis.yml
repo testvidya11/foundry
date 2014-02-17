@@ -12,5 +12,3 @@ before_script:
   - git config --global user.email "foundry-test@mailinator.com"
   - git config --global user.name "Foundry Test"
 
-notifications:
-  email: false
